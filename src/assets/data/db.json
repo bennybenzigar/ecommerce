@@ -1,0 +1,124 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "productName": "Pack of 2 Striped Men Round Neck Blue, Yellow T-Shirt",
+        "categoryId": 2,
+        "description": "Latest Men’s Half Sleeves Shirt",
+        "price": "1000",
+        "is_available": true,
+        "productImg": "https://i.postimg.cc/1z18LBfK/s-ts1-vebnor-original-images23whtzvy52.jpg",
+        "rating": 4.4,
+        "review": 150,
+        "vendor_name": "Malabar Textiles",
+        "warranty": 1
+      },
+      
+      {
+        "id": "2",
+        "productName": "Men's Formals Shirt",
+        "categoryId": "2",
+        "description": "L Half Sleeves Shirt",
+        "price": "700",
+        "is_available": "yes",
+        "productImg": "https://i.postimg.cc/Yq1hvN16/shirt2.jpg",
+        "rating": "4.6",
+        "review": "250",
+        "vendor_name": "Malabar texstyle",
+        "warranty": 2
+      },
+
+      {
+        "id": "3",
+        "productName": "MOTOROLA Revou 164 cm TV",
+        "categoryId": "3",
+        "description": "MOTOROLA Revou 164 cm (65 inch) Ultra HD (4K) LED Smart Android TV with Dolby Atmos and Dolby Vision  (65UHDADMRS7P)",
+        "price": "54990",
+        "is_available": "yes",
+        "productImg": "https://i.postimg.cc/Y0vXJMsZ/65uhdadmrs7p-motorola-original-imag7a7nenjvfanu.jpg",
+        "rating": "4.7",
+        "review": "250",
+        "vendor_name": "HydtelRETAILSsales",
+        "warranty": 2
+        
+      },
+
+      {
+        "id": "4",
+        "productName": "APPLE iPhone 13 Pro Max ",
+        "categoryId": "4",
+        "description": "(Silver, 128 GB)",
+        "price": "129900",
+        "is_available": "yes",
+        "productImg": "https://i.postimg.cc/JnCyJqbF/iphone-13-pro-max-mlll3hn-a-apple-original-imag6vpg3r7dyvhm.jpg",
+        "rating": "4.0",
+        "review": "250",
+        "vendor_name": "HydtelRETAILSsales",
+        "warranty": 2
+        
+      },
+
+      {
+        "id": "5",
+        "productName": "LG Super Convertible ",
+        "categoryId": "3",
+        "description": "LG Super Convertible 6-in-1 Cooling 1 Ton 5 Star Split Dual Inverter AI, 4 Way Swing, HD Filter with Anti-Virus Protection AC - White  (PS-Q13ENZE, Copper Condenser)",
+        "price": "36,490",
+        "is_available": "yes",
+        "productImg": "https://i.postimg.cc/VLyWWx87/original-imagay8qzzvnkxvp.jpg",
+        "rating": "4.5",
+        "review": "100",
+        "vendor_name": "HydtelRETAILSsales",
+        "warranty": 2
+        
+      },
+
+      {
+        "id": "6",
+        "productName": "SAMSUNG Galaxy S22 Ultra 5G ",
+        "categoryId": "4",
+        "description": "(Phantom Black, 256 GB)  (12 GB RAM)",
+        "price": "109999",
+        "is_available": "yes",
+        "productImg": "https://i.postimg.cc/wjQH0Ysg/original-imaggj68cgtdacxn.jpg",
+        "rating": "4.7",
+        "review": "200",
+        "vendor_name": "HydtelRETAILSsales",
+        "warranty": 2
+        
+      },
+      {
+        "id": "7",
+        "productName": "Lenovo IdeaPad Gaming 3 Core i5 11th Gen ",
+        "categoryId": "3",
+        "description": "(8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) 15IHU6 Gaming Laptop  (15.6 inch, Shadow Black, 2.25 kg, With MS Office)",
+        "price": "65490",
+        "is_available": "yes",
+        "productImg": "https://i.postimg.cc/C15g8QFF/na-gaming-laptop-lenovo-original-imag5ve3jvhgvsnx.jpg",
+        "rating": "4.1",
+        "review": "200",
+        "vendor_name": "PETILANTE Online",
+        "warranty": 1
+        
+      },
+
+      {
+        "id": "8",
+        "productName": "Men Slim Fit Solid Spread Collar Casual Shirt ",
+        "categoryId": "2",
+        "description": "pure cotton shirt",
+        "price": "489",
+        "is_available": "yes",
+        "productImg": "https://i.postimg.cc/QCkPFQRQ/l-ts-shirt1083-tanip-original-imag9ugfzkdhprzn.jpg",
+        "rating": "4.1",
+        "review": "200",
+        "vendor_name": "BLINKSTAR",
+        "warranty": 1
+        
+      }
+
+      
+      
+    ]
+    
+  }
